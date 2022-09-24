@@ -1,0 +1,38 @@
+body {
+	background-image: url(shapes_colorful.png);
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	border: 10px solid rgba(0, 0, 0, 0.2);
+	font-size: 50px;
+	font-family: cursive;
+	color: #191768;
+}
+
+nav {
+	font-size: 20px;
+	font-family: cursive;
+}
+
+h2 {
+	font-size: 35px;
+	font-family: cursive;
+}
+
+img {
+	border: 5px dotted rgba(0, 0, 0, 0.2);
+}
+
+section {
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+}
+
+footer {
+	text-align: center;
+}

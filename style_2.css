@@ -1,0 +1,8 @@
+body {
+	background-image: url(rainbow.png);
+	background-size: cover;
+}
+
+img {
+	border: 3px solid rgba(255, 255, 125, 0.8);
+}
